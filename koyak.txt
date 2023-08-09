@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="❗" 
+#EXTM3U billed-msg=" Assalamualaikum" 
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,http://epg.ra1n.lol/jp.xml,https://epg.ra1n.lol/jpkansai.xml" 
 #EXTM3U
 
